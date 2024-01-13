@@ -12,5 +12,8 @@
     "backened"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.1"
+  }
 }
